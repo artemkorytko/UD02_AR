@@ -138,7 +138,7 @@ namespace Ar
                     return result;
                 }
             }
-
+            //check diagonal 2
             {
                 cellType = cells[2].Type;
                 bool result = true;
